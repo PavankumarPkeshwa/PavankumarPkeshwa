@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavan Kumar P</h1>
-<h3 align="center">I am currently a Software Developer Trainee at BGSW, specializing in Java Full Stack development. With a passion for creating innovative and efficient software solutions, I bring a blend of technical expertise and enthusiasm to every project. I am dedicated to designing seamless user experiences backed by robust and scalable architectures. My commitment to excellence drives me to consistently deliver results that make a meaningful impact.</h3>
+<h3 align="right">I am currently a Software Developer Trainee at BGSW, specializing in Java Full Stack development. With a passion for creating innovative and efficient software solutions, I bring a blend of technical expertise and enthusiasm to every project. I am dedicated to designing seamless user experiences backed by robust and scalable architectures. My commitment to excellence drives me to consistently deliver results that make a meaningful impact.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavankumarpkeshwa&label=Profile%20views&color=0e75b6&style=flat" alt="pavankumarpkeshwa" /> </p>
 
